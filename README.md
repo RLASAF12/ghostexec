@@ -1,3 +1,5 @@
+> **Archived.** This repo moved to [RLASAF12/agent-failure-lab](https://github.com/RLASAF12/agent-failure-lab/tree/main/ghostexec) (folder `ghostexec/`, full history preserved). Archived 2026-10-04.
+
 # GhostExec — Agent Failure Series #7
 
 > **An AI agent fabricates tool call results and reports success for actions that never happened.**
